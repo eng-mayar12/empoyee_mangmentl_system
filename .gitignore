@@ -1,0 +1,8 @@
+.idea/
+cmake-build-*/
+*.iml
+*.o
+*.obj
+*.exe
+*.out
+.DS_Store
